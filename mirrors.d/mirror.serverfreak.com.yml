@@ -3,7 +3,7 @@ name: mirror.serverfreak.com
 address:
   http: http://mirror.serverfreak.com/almalinux/
   https: https://mirror.serverfreak.com/almalinux/
-  rsync: rsync://almalinux-mirror.dal1.hivelocity.net
+  rsync: rsync://mirror.serverfreak.com/almalinux
 geolocation:
   country: MY
   state_province: Selangor
